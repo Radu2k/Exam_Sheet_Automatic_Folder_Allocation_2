@@ -1,4 +1,4 @@
-# ExamSheetAutoDistributionV2
+# Exam_Sheet_Automatic_Folder_Allocation_2
 
 Automatization of grading written exam papers, using Machine Learning, OpenCV and Matplotlib.
 Developed a system that transform scanned exam papers from PDF to folders with images for each student, based on handwritten student number and grading.
