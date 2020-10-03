@@ -28,7 +28,7 @@ Open the project in PyCharm and you will need to import the following:
 ## Authors
 
 * **Radu-Constantin Salavat** - *Initial work* - [Radu2k](https://github.com/Radu2k)
-* **Dr Firat Batmaz** - *Ideea, Inspiration and Documentation* 
+* **Dr Firat Batmaz** - *Ideea, Inspiration and Documentation* [Dr Firat Batmaz](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/firat-batmaz/)
 
 ## Acknowledgments
 
