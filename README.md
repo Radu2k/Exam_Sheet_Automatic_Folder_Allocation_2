@@ -9,7 +9,9 @@ Download the zip and extract it.
 
 ### Installing
 I recommand to use linux and pip command.
+
 Extract the zip and place all in the same folder.
+
 Open the project in PyCharm and you will need to import the following:
 
 * [Numpy](https://numpy.org/install/)
