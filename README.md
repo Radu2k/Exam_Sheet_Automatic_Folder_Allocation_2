@@ -2,6 +2,8 @@
 
 Automatization of grading written exam papers, using Machine Learning, OpenCV and Matplotlib.
 Developed a system that transform scanned exam papers from PDF to folders with images for each student, based on handwritten student number and grading.
+
+First it will look for the pdf. Then using machine learning it will try and understand the student number in each pdf page (If there is one). After it will check and match the result with one from an excel file with all student numbers. Then it will create a folder with student ID for those that match more than 70% of digits, it will use the one that had the biggest match with what found in excel.
   
 ## Getting Started
 
