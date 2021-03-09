@@ -23,7 +23,7 @@ Open the project in PyCharm and you will need to import the following:
 * [CV2](https://pypi.org/project/opencv-python/)
 * [Pytesseract](https://pypi.org/project/pytesseract/)
 * [OS]()
-* [xlrd](https://pypi.org/project/xlrd/)
+* [xlrd](https://pypi.org/project/xlrd/) - version 1.2.0
 * [pdf2image](https://pypi.org/project/pdf2image/)
 * [shutil](https://pypi.org/project/pytest-shutil/)
 
